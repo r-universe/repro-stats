@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "lineager"]
+	path = lineager
+	url = https://github.com/repro-stats/lineager
 [submodule "regulog"]
 	path = regulog
 	url = https://github.com/repro-stats/regulog
